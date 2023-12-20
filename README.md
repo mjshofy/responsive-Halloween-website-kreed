@@ -1,4 +1,4 @@
-# Responsive halloween website design
+# Responsive halloween 🎃 website design
 Create a responsive Halloween website using HTML, CSS, and JavaScript by watching this tutorial video on my YouTube channel
 
 ## [▶️ Watch Complete Tutorial on YouTube](https://youtu.be/IGNcDAF5XMg)
