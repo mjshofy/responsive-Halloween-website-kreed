@@ -6,9 +6,9 @@ Create a responsive Halloween website using HTML, CSS, and JavaScript by watchin
 
 Learn how to create a responsive Halloween website using HTML, CSS, and JavaScript from scretch by watching this step by stap tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-💝 You can get the complete source code from [BuyMeACoffee](https://www.buymeacoffee.com/codermj/e/187837)
+🎁 Get Design Source Code from [Here](https://www.buymeacoffee.com/the.codermj/e/187837)
 
 Thanks,
-[codermj](https://www.youtube.com/@thecodermj/)
+[codermj](https://www.youtube.com/@the.codermj/)
 
 ![design](https://github.com/mjshofy/responsive-Halloween-website-kreed/assets/76812554/9d68c9c2-cd2a-4485-bfe1-57bdb29a9f17)
